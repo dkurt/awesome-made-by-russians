@@ -146,7 +146,7 @@
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
   
-- **[CVAT](https://github.com/opencv/cvat)** by [Intel Russla](https://github.com/intel)<br>
+- **[CVAT](https://github.com/openvinotoolkit/cvat)** by [Intel Russla](https://github.com/intel)<br>
   Powerful and efficient Computer Vision Annotation Tool.
 
 - **[Data Science Blogs](https://github.com/rushter/data-science-blogs)** by [Artem Golubin](https://github.com/rushter)<br>
@@ -615,6 +615,9 @@
   
 - **[OpenLara](https://github.com/XProger/OpenLara)** by [Timur Gagiev](https://github.com/XProger)<br>
   Classic Tomb Raider open-source engine.
+  
+- **[OpenVINO](https://github.com/openvinotoolkit/openvino)** by [Intel Russia](https://github.com/intel)<br>
+  Deep Learning engine and free trained networks
 
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
